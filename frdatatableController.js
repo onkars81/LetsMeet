@@ -1,0 +1,1 @@
+angular.module('angularDatatableModule', ['datatables']);
